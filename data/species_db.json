@@ -1,0 +1,196 @@
+[
+  {
+    "id": 1,
+    "nombre": "Oso Andino",
+    "imagen": "oso_andino.png",
+    "habitat": "bosque nublado",
+    "alimentacion": "omnivoro",
+    "coordenadas": {
+      "lat": -0.55,
+      "lng": -78.45
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "Cóndor Andino",
+    "imagen": "condor.png",
+    "habitat": "alta montaña",
+    "alimentacion": "carnivoro",
+    "coordenadas": {
+      "lat": -1.25,
+      "lng": -79.10
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Lobo Marino",
+    "imagen": "lobo_marino.png",
+    "habitat": "costa",
+    "alimentacion": "piscivoro",
+    "coordenadas": {
+      "lat": -2.22,
+      "lng": -81.05
+    }
+  },
+  {
+    "id": 4,
+    "nombre": "Tortuga Galápagos",
+    "imagen": "tortuga_galapagos.png",
+    "habitat": "islas",
+    "alimentacion": "herbivoro",
+    "coordenadas": { "lat": -0.75, "lng": -90.30 }
+  },
+    {
+        "id": 5,
+        "nombre": "Piquero de Patas Azules",
+        "imagen": "piquero_azul.png",
+        "habitat": "islas",
+        "alimentacion": "piscivoro",
+        "coordenadas": { "lat": -0.60, "lng": -90.10 }
+    },
+    {
+        "id": 6,
+        "nombre": "Iguana Marina",
+        "imagen": "iguana_marina.png",
+        "habitat": "islas",
+        "alimentacion": "herbivoro",
+        "coordenadas": { "lat": -0.62, "lng": -90.30 }
+    },
+    {
+        "id": 7,
+        "nombre": "Mono Aullador",
+        "imagen": "mono_aullador.png",
+        "habitat": "bosque tropical",
+        "alimentacion": "frugivoro",
+        "coordenadas": { "lat": -1.90, "lng": -78.50 }
+    },
+    {
+        "id": 8,
+        "nombre": "Jaguar",
+        "imagen": "jaguar.png",
+        "habitat": "bosque tropical",
+        "alimentacion": "carnivoro",
+        "coordenadas": { "lat": -1.15, "lng": -77.60 }
+    },
+    {
+        "id": 9,
+        "nombre": "Puma",
+        "imagen": "puma.png",
+        "habitat": "bosque andino",
+        "alimentacion": "carnivoro",
+        "coordenadas": { "lat": -0.85, "lng": -78.10 }
+    },
+    {
+        "id": 10,
+        "nombre": "Zorro Andino",
+        "imagen": "zorro_andino.png",
+        "habitat": "alta montaña",
+        "alimentacion": "omnivoro",
+        "coordenadas": { "lat": -0.30, "lng": -78.45 }
+    },
+    {
+        "id": 11,
+        "nombre": "Venado de Cola Blanca",
+        "imagen": "venado.png",
+        "habitat": "bosque seco",
+        "alimentacion": "herbivoro",
+        "coordenadas": { "lat": -3.10, "lng": -80.10 }
+    },
+    {
+        "id": 12,
+        "nombre": "Zarigueya Común",
+        "imagen": "zarigueya.png",
+        "habitat": "bosque tropical",
+        "alimentacion": "omnivoro",
+        "coordenadas": { "lat": -2.20, "lng": -78.80 }
+    },
+    {
+        "id": 13,
+        "nombre": "Guacamayo Verde",
+        "imagen": "guacamayo_verde.png",
+        "habitat": "bosque tropical",
+        "alimentacion": "frugivoro",
+        "coordenadas": { "lat": -1.50, "lng": -77.90 }
+    },
+    {
+        "id": 14,
+        "nombre": "Lagarto Ameiva",
+        "imagen": "ameiva.png",
+        "habitat": "costa",
+        "alimentacion": "insectivoro",
+        "coordenadas": { "lat": -2.10, "lng": -79.90 }
+    },
+    {
+        "id": 15,
+        "nombre": "Pelícano Café",
+        "imagen": "pelicano.png",
+        "habitat": "costa",
+        "alimentacion": "piscivoro",
+        "coordenadas": { "lat": -1.80, "lng": -80.75 }
+    },
+    {
+        "id": 16,
+        "nombre": "Caimán del Amazonas",
+        "imagen": "caiman.png",
+        "habitat": "selva amazónica",
+        "alimentacion": "carnivoro",
+        "coordenadas": { "lat": -2.95, "lng": -76.10 }
+    },
+    {
+        "id": 17,
+        "nombre": "Boa Amazónica",
+        "imagen": "boa.png",
+        "habitat": "selva amazónica",
+        "alimentacion": "carnivoro",
+        "coordenadas": { "lat": -2.85, "lng": -76.50 }
+    },
+    {
+        "id": 18,
+        "nombre": "Armadillo",
+        "imagen": "armadillo.png",
+        "habitat": "bosque seco",
+        "alimentacion": "insectivoro",
+        "coordenadas": { "lat": -3.30, "lng": -79.80 }
+    },
+    {
+        "id": 19,
+        "nombre": "Tucán Andino",
+        "imagen": "tucan_andino.png",
+        "habitat": "bosque andino",
+        "alimentacion": "frugivoro",
+        "coordenadas": { "lat": -0.22, "lng": -78.60 }
+    },
+    {
+        "id": 20,
+        "nombre": "Ocelote",
+        "imagen": "ocelote.png",
+        "habitat": "selva amazónica",
+        "alimentacion": "carnivoro",
+        "coordenadas": { "lat": -3.10, "lng": -76.80 }
+    },
+    {
+        "id": 21,
+        "nombre": "Perico Coronado",
+        "imagen": "perico_coronado.png",
+        "habitat": "bosque nublado",
+        "alimentacion": "frugivoro",
+        "coordenadas": { "lat": -0.55, "lng": -78.20 }
+    },
+    {
+        "id": 22,
+        "nombre": "Oso Hormiguero",
+        "imagen": "oso_hormiguero.png",
+        "habitat": "bosque tropical",
+        "alimentacion": "insectivoro",
+        "coordenadas": { "lat": -1.70, "lng": -77.40 }
+    },
+    {
+        "id": 23,
+        "nombre": "Delfín Rosado",
+        "imagen": "delfin_rosado.png",
+        "habitat": "selva amazónica",
+        "alimentacion": "piscivoro",
+        "coordenadas": { "lat": -2.75, "lng": -75.90 }
+    }
+
+]
