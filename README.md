@@ -1,7 +1,7 @@
 Instalación y configuración
 1️. Clonar el repositorio
 git clone <URL-del-repositorio>
-cd ecospecies-hub
+cd FaunaDataInc
 
 2.  Crear un entorno virtual (opcional pero recomendado)
 python -m venv venv
